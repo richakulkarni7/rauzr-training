@@ -1,4 +1,4 @@
-#To-do app using react-redux
+# To-do app using react-redux
 
 1. Run `create-react-app to-do`
 2. Install `redux` and `react-redux` modules using `npm install --save <module-name>` in the to-do folder.
